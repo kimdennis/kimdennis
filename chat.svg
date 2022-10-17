@@ -79,7 +79,7 @@
     .msg-7 {
       animation: wait 16.7s, msg-6 0.2s 14.2s;
     }
-    
+     
     @keyframes wait {
       0%,
       100% {
