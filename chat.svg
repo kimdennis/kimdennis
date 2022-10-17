@@ -284,7 +284,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Interested in full stack development, data science,</text>    
-    <text x="15" y="50">HCI, UI/UX and graphic design</text>
+    <text x="15" y="50">HCI, UI/UX, and, graphic design</text>
   </g>
 
 
@@ -309,7 +309,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="305" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Director of graphics @ TMU WiCS</text>    
+    <text x="15" y="27">Director of Graphics @ TMU WiCS</text>    
   </g>
 
   <!-- typing 5 -->
