@@ -23,8 +23,8 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
-          author_name: uiandwe
-          author_email: uiandwe@gmail.com
+          author_name: kimdennis
+          author_email: denniskim@ryerson.ca
           message: "Auto updating my readme"
           add: "*.svg"
         env:
