@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I run Python UserGoup in Korea</text>    
+    <text x="15" y="27">director of graphics for events @ TMU WiCS</text>    
   </g>
 
   <!-- typing 5 -->
@@ -394,6 +394,6 @@
   <!-- Have a great... -->
   <g transform="translate(10, 288)" class="msg-6">
     <rect width="250" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27"><a xlink:href="https://uiandwe.github.io/">https://uiandwe.github.io</a> </text>
+    <text x="15" y="27"><a xlink:href="https://github.com/kimdennis">https://github.com/kimdennis</a> </text>
   </g>
 </svg>
