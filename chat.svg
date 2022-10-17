@@ -271,7 +271,7 @@
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="170" height="42" rx="18.0355" />
-    <text x="15" y="27">I'm Dennis Kim</text>
+    <text x="15" y="27">Hey! I'm Dennis 🥴</text>
   </g>
 
   <!-- typing 2 -->
@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="495" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="320" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently seeking 2023 Summer Co-op/Internship</text>    
     <text x="15" y="50">opportunities.</text>
   </g>
@@ -345,7 +345,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="310" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="305" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">director of graphics @ TMU WiCS</text>    
   </g>
 
