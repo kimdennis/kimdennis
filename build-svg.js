@@ -7,7 +7,7 @@ fs.readFile("template.svg", "utf-8", (error, data) => {
     return;
   }
   
-  data = data.replace('{name}', 'uiandwe')
+  data = data.replace('{name}', 'dennis')
 
   data = fs.writeFile("chat.svg", data, (err) => {
     if (err) {
