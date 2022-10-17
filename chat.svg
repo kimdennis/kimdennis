@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="430" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="435" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently seeking 2023 Summer Co-op/Internship</text>    
     <text x="15" y="50">opportunities.</text>
   </g>
