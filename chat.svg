@@ -345,7 +345,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="315" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">director of graphics @ TMU WiCS</text>    
   </g>
 
