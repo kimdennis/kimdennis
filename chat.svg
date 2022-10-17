@@ -48,7 +48,7 @@
       animation: wait 11.7s, msg-5 0.2s 11.7s;
     }
     .msg-6 {
-      animation: wait 14.2s, msg-6 0.2s 16.7s;
+      animation: wait 14.2s, msg-6 0.2s 14.2s;
     }    
     
     .typing-5 {
