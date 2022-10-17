@@ -70,15 +70,6 @@
       opacity: 0;
       animation: wait 12.5s, fade-in-out 1.5s 12.5s;
     }
-
-    .typing-7 {
-      opacity: 0;
-      animation: wait 15s, fade-in-out 1.5s 15s;
-    }
-
-    .msg-7 {
-      animation: wait 16.7s, msg-6 0.2s 14.2s;
-    }    
     
     @keyframes wait {
       0%,
