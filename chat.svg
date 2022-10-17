@@ -282,8 +282,8 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="435" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Interested in full stack development, data science</text>    
+    <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Interested in full stack development, data science,</text>    
     <text x="15" y="50">HCI, UI/UX and graphic design</text>
   </g>
 
