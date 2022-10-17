@@ -369,7 +369,7 @@
 
   <!-- Have a great... -->
   <g transform="translate(10, 240)" class="msg-5">
-    <rect width="300" height="42" rx="18.0355" class="bubble" />
+    <rect width="305" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">My projects can be checked here.</text>
   </g>
   
