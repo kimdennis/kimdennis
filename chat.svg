@@ -270,7 +270,7 @@
 
   <!-- Hi, I'm Jason -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
-    <rect width="170" height="42" rx="18.0355" />
+    <rect width="175" height="42" rx="18.0355" />
     <text x="15" y="27">Hey! I'm Dennis 🥴</text>
   </g>
 
@@ -294,7 +294,7 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="320" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently in my 3rd year of CS co-op @</text>
     <text x="15" y="50">Toronto Metropolitan University</text>
   </g>
@@ -319,7 +319,7 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="320" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="420" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Currently seeking 2023 Summer Co-op/Internship</text>    
     <text x="15" y="50">opportunities.</text>
   </g>
