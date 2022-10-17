@@ -320,8 +320,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently seeking 2023 Summer</text>    
-    <text x="15" y="50">Co-op/Internship opportunities.</text>
+    <text x="15" y="27">Currently seeking 2023 Summer Co-op/Internship opportunities.</text>    
+    <text x="15" y="50">ddd</text>
   </g>
 
 
@@ -346,7 +346,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">director of graphics for events @ TMU WiCS</text>    
+    <text x="15" y="27">director of graphics @ TMU WiCS</text>    
   </g>
 
   <!-- typing 5 -->
