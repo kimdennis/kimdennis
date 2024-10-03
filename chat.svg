@@ -308,7 +308,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="335" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I love to code in C++, C#, and Python!</text>    
   </g>
 
