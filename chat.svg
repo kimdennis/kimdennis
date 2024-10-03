@@ -282,9 +282,9 @@
 
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Interested in full stack development, computer graphics, data science,</text>    
-    <text x="15" y="50">HCI, UI/UX, and, graphic design</text>
+    <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">Interested in full stack development, computer graphics,</text>    
+    <text x="15" y="50">data science, and graphic design</text>
   </g>
 
 
@@ -308,7 +308,7 @@
 
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="305" height="42.1302" rx="18.0355" class="bubble" />
+    <rect width="325" height="42.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I love to code in C++, C#, and Python!</text>    
   </g>
 
