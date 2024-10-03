@@ -234,7 +234,7 @@
   <!-- Hi, I'm Dennis -->
   <g transform="translate(10, 0)" class="msg-1 bubble">
     <rect width="175" height="42" rx="18.0355" />
-    <text x="15" y="27">Hey! I'm Dennis 🥴</text>
+    <text x="15" y="27">Hey! I'm Dennis 🦭</text>
   </g>
 
   <!-- typing 2 -->
@@ -258,7 +258,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently in my 3rd year of CS co-op @</text>
+    <text x="15" y="27">Currently in my 4th year of CS co-op @</text>
     <text x="15" y="50">Toronto Metropolitan University</text>
   </g>
 
@@ -283,7 +283,7 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="440" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Interested in full stack development, data science,</text>    
+    <text x="15" y="27">Interested in full stack development, computer graphics, data science,</text>    
     <text x="15" y="50">HCI, UI/UX, and, graphic design</text>
   </g>
 
@@ -309,7 +309,7 @@
   <!-- Thanks -->
   <g transform="translate(10, 192)" class="msg-4">
     <rect width="305" height="42.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Director of Graphics @ TMU WiCS</text>    
+    <text x="15" y="27">I love to code in C++, C#, and Python!</text>    
   </g>
 
   <!-- typing 5 -->
