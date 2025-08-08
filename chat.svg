@@ -258,7 +258,7 @@
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Currently in my 4th year of CS co-op @</text>
+    <text x="15" y="27">Recently graduated from CS @</text>
     <text x="15" y="50">Toronto Metropolitan University</text>
   </g>
 
@@ -283,8 +283,8 @@
   <!-- Work ... -->
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">Interested in full stack development, computer graphics,</text>    
-    <text x="15" y="50">data science, and graphic design</text>
+    <text x="15" y="27">Interested in computer graphics, real-time rendering,</text>    
+    <text x="15" y="50">game engines, and technical art</text>
   </g>
 
 
