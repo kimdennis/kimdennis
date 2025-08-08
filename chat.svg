@@ -257,9 +257,9 @@
 
   <!-- From Columbus... -->
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="350" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="300" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Recently graduated from CS @</text>
-    <text x="15" y="50">Toronto Metropolitan University</text>
+    <text x="15" y="50">Toronto Metropolitan University.</text>
   </g>
 
   <!-- typing 3 -->
@@ -284,7 +284,7 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="480" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">Interested in computer graphics, real-time rendering,</text>    
-    <text x="15" y="50">game engines, and technical art</text>
+    <text x="15" y="50">game engines, and technical art.</text>
   </g>
 
 
